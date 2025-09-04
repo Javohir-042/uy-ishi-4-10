@@ -25,11 +25,11 @@
 							}
 						},
 						"url": {
-							"raw": "localhost:3000/api/university",
+							"raw": "localhost:3005/api/university",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "3005",
 							"path": [
 								"api",
 								"university"
@@ -51,11 +51,11 @@
 							"raw": "{\n    \"name\":\"Javohir\",\n    \"location\": \"TATUV\"\n}"
 						},
 						"url": {
-							"raw": "localhost:3000/api/university",
+							"raw": "localhost:3005/api/university",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "3005",
 							"path": [
 								"api",
 								"university"
@@ -77,11 +77,11 @@
 							"raw": "{\n    \"name\":\"Javohir\",\n    \"location\": \"TATUV\"\n}"
 						},
 						"url": {
-							"raw": "localhost:3000/api/university/1",
+							"raw": "localhost:3005/api/university/1",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "3005",
 							"path": [
 								"api",
 								"university",
@@ -106,11 +106,11 @@
 							}
 						},
 						"url": {
-							"raw": "localhost:3000/api/university/1",
+							"raw": "localhost:3005/api/university/1",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "3005",
 							"path": [
 								"api",
 								"university",
@@ -130,11 +130,11 @@
 							"raw": "{\n    \"name\":\"Said\",\n    \"location\": \"Moliya\"\n}"
 						},
 						"url": {
-							"raw": "localhost:3000/api/university/1",
+							"raw": "localhost:3005/api/university/1",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "3005",
 							"path": [
 								"api",
 								"university",
@@ -164,11 +164,11 @@
 							}
 						},
 						"url": {
-							"raw": "localhost:3000/api/group",
+							"raw": "localhost:3005/api/group",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "3005",
 							"path": [
 								"api",
 								"group"
@@ -190,11 +190,11 @@
 							"raw": "{\n    \"name\": \"TVM\",\n    \"universityId\": 2\n}"
 						},
 						"url": {
-							"raw": "localhost:3000/api/group",
+							"raw": "localhost:3005/api/group",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "3005",
 							"path": [
 								"api",
 								"group"
@@ -216,11 +216,11 @@
 							"raw": "{\n    \"name\": \"TVM\",\n    \"universityId\": 2\n}"
 						},
 						"url": {
-							"raw": "localhost:3000/api/group/1",
+							"raw": "localhost:3005/api/group/1",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "3005",
 							"path": [
 								"api",
 								"group",
@@ -245,11 +245,11 @@
 							}
 						},
 						"url": {
-							"raw": "localhost:3000/api/group/1",
+							"raw": "localhost:3005/api/group/1",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "3005",
 							"path": [
 								"api",
 								"group",
@@ -269,11 +269,11 @@
 							"raw": "{\n    \"name\": \"TVM\",\n    \"universityId\": 2\n}"
 						},
 						"url": {
-							"raw": "localhost:3000/api/group/1",
+							"raw": "localhost:3005/api/group/1",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "3005",
 							"path": [
 								"api",
 								"group",
@@ -303,11 +303,11 @@
 							}
 						},
 						"url": {
-							"raw": "localhost:3000/api/student",
+							"raw": "localhost:3005/api/student",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "3005",
 							"path": [
 								"api",
 								"student"
@@ -329,11 +329,11 @@
 							"raw": "{\n    \"firstName\": \"Javohir1\",\n    \"lastName\": \"Quromboyev1\",\n    \"age\": 30,\n    \"groupId\": 2\n}"
 						},
 						"url": {
-							"raw": "localhost:3000/api/student",
+							"raw": "localhost:3005/api/student",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "3005",
 							"path": [
 								"api",
 								"student"
@@ -355,11 +355,11 @@
 							"raw": "{\n    \"firstName\": \"Javohir1\",\n    \"lastName\": \"Quromboyev1\",\n    \"age\": 30,\n    \"groupId\": 2\n}"
 						},
 						"url": {
-							"raw": "localhost:3000/api/student/2",
+							"raw": "localhost:3005/api/student/2",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "3005",
 							"path": [
 								"api",
 								"student",
@@ -384,11 +384,11 @@
 							}
 						},
 						"url": {
-							"raw": "localhost:3000/api/student/2",
+							"raw": "localhost:3005/api/student/2",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "3005",
 							"path": [
 								"api",
 								"student",
@@ -408,11 +408,11 @@
 							"raw": "{\n    \"firstName\": \"Javohir\",\n    \"lastName\": \"Quromboyev\",\n    \"age\": 20,\n    \"groupId\": 2\n}"
 						},
 						"url": {
-							"raw": "localhost:3000/api/student/1",
+							"raw": "localhost:3005/api/student/1",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "3005",
 							"path": [
 								"api",
 								"student",
@@ -442,11 +442,11 @@
 							}
 						},
 						"url": {
-							"raw": "localhost:3000/api/teacher",
+							"raw": "localhost:3005/api/teacher",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "3005",
 							"path": [
 								"api",
 								"teacher"
@@ -468,11 +468,11 @@
 							"raw": "{\n    \"firstName\": \"Javohir\",\n    \"lastName\": \"Quromboyev\",\n    \"specialization\": \"Matematika\",\n    \"universityId\": 2\n}"
 						},
 						"url": {
-							"raw": "localhost:3000/api/teacher",
+							"raw": "localhost:3005/api/teacher",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "3005",
 							"path": [
 								"api",
 								"teacher"
@@ -494,11 +494,11 @@
 							"raw": "{\n    \"firstName\": \"Javohir\",\n    \"lastName\": \"Quromboyev\",\n    \"specialization\": \"Matematika\",\n    \"universityId\": 2\n}"
 						},
 						"url": {
-							"raw": "localhost:3000/api/teacher/1",
+							"raw": "localhost:3005/api/teacher/1",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "3005",
 							"path": [
 								"api",
 								"teacher",
@@ -523,11 +523,11 @@
 							}
 						},
 						"url": {
-							"raw": "localhost:3000/api/teacher/1",
+							"raw": "localhost:3005/api/teacher/1",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "3005",
 							"path": [
 								"api",
 								"teacher",
